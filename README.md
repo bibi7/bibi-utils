@@ -6,4 +6,4 @@ a new project which is used to replace the old one
 not ready for production
 
 ## other
-uodate with mood
+update with mood
