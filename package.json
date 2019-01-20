@@ -39,7 +39,16 @@
     ]
   },
   "eslintConfig": {
-    "extends": "enough"
+    "extends": "enough",
+    "rules": {
+      "no-console": "off",
+      "no-trailing-spaces": "off",
+      "linebreak-style": "off"
+    },
+    "env": {
+      "browser": true,
+      "node": true
+    }
   },
   "dependencies": {
     "@babel/core": "^7.2.2"
